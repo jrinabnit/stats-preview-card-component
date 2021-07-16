@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/FireShot%20Capture%20002%20-%20Frontend%20Mentor%20-%20Stats%20preview%20card%20component.png)
 
 
 ### Links
@@ -49,6 +49,6 @@ I would like to improve my understanding of using images and background images a
 
 ## Author
 
-- Website - [www.jeremyinabnit.com]
-- Twitter - [@jeremyinabnit]
+- Website - [Jeremy Inabnit](https://www.jeremyinabnit.com)
+- Twitter - [@jeremyinabnit](https://www.twitter.com/jeremyinabnit)
 
