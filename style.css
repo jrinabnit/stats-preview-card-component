@@ -15,7 +15,6 @@ body {
 	font-family: 'Inter', sans-serif;
 	font-weight: 400;
 	background-color: hsl(233, 47%, 7%);
-	overflow: hidden;
 }
 
 /* Typography */
@@ -52,7 +51,6 @@ strong {
 	max-width: 650px;
 	display: flex;
 	flex-direction: column;
-	
 	justify-content: center;
 	align-items: center;
 	background-color: hsl(244, 38%, 16%);
@@ -62,10 +60,11 @@ strong {
 .card-img {
 	max-width: 100%;
 	height: 100%;
-	object-fit: contain;
+	/* object-fit: contain; */
 	border-radius: 8px 8px 0 0;
 	background: hsl(277, 64%, 61%);
 	mix-blend-mode: luminosity;
+	filter: opacity(40%);
 }
 
 .card-content-one {
@@ -115,7 +114,6 @@ strong {
 	.card-content {
 		padding: 0 2em;
 		width: 50%;
-
 	}
 
 	.info,
@@ -124,7 +122,6 @@ strong {
 		margin: 0;
 		padding-left: 0;
 	}
-
 
 	.card-img {
 		border-radius: 0px 8px 8px 0;
@@ -138,6 +135,5 @@ strong {
 		justify-content: space-between;
 		padding-bottom: 0;
 	}
-
 	
 }
